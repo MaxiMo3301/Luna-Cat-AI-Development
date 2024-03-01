@@ -1,0 +1,6 @@
+
+*.pyc
+*.iml
+*.xml
+src/fall_detection_by_blazepose/log.txt
+src/fall_detection_by_blazepose/output.npy
