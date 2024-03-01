@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "audio-bot-389910",
+  "private_key_id": "9ef67fc68a472b3d8afb7ef56dfbaf9b8184582a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCa2Y1M0CJ45lW/\nmUbZPjo2FmIPp10hvNwURWDf7Z5a8z9Da/ntpD9p6rTIJjjLN4G5Sft4YGnhXVi2\nv7JBGSsbc4ghOUYYz5hsQXKrUd93kNS+yc6khYbl5a8vP7jgqOeNmLPFKWd5vxZV\n2JJwwq78Dqu87DaUfBoHZ3yjPntytriaI2RGmMp/hpzciyf21UWs5ReBGDkYlgW/\nAC4FKUmel9FnTO+iTg0L3exOssDPoWnPvBpKIGavPsBzfYg38ce5ndlA13GR3goN\nZ7aQ5i90yM1rY0RcgUsrqlXY5J6FLvsUTfmuSRV/T/vd263ZD9n/GfIkGkrem2Ba\n9Aa/A57fAgMBAAECggEAEWaWCsYuwYA8rYmnXP0xpGdSgKjRfduPrZV4Q+GbVGQW\nPVjSXoKA/8F4rC8jXa6wnKY0JHxNGZ6YO/0BpnASGIUcjIM3nc0iNzQJkzfhkTmM\ntp3N403/8TCkxX33JAPG9XHt7Z9v+c3f0CjEl/hAmqF5agLvRTNG54MZDe0VCThT\ncsrF4CAYO+oTFDS4fToC12pZULxYo+hIjC80yWvoEA7aIPInu5Xob/Udiuc7SPU9\n4gBYNEEmh/p4vUEww0PeuKb9N0FVXnwj2H7u0lHxURfFW+faQk6Y4RC3Tui5vJWM\nFP5pCokFRGSMut86P4UJonk+D1VDUnKv/L4G6it1lQKBgQDOOfIvwmqAn/o4q39m\n5FkXPbfkwVLVrvctOi43Cn1DfUIYcc0LyRRJTvvJSO/PBnIzJniOgMIDecdpQl1y\n4rKetNoiw13IhefMw9QyH5HjTc1tZXRZwIJuY8QgFrA8YL8m0Y0cJ82NnWXVkvhp\nNbsVjz0KkLtEYF4ndxsWqMWt9QKBgQDAOTePhmyInf7Bp7X01W0/v3xtwOmdLVjS\nElwOJKgu8Pem2vd/ZbD+yN/KWHvnMcfJYWMIXitzxKXpykBktku6GCduLZMVfbfU\nzrPaDRXyvq1spx1D1hHEISDbVwjAt5tGamYjETr369zd0V0RVstH4vq6iipkKup1\nKy1eIm4hAwKBgDFfOhYpC2pj4nnyxPuTK6kew4nmprg1vUN8rFfNERQ5Rruncxmh\nOFQcrrcP2SnNN0X7rd0gAlLmstEGbGz2zSCl15t+/lLljAs/zut5F2o91DKemW5r\nYk6fX/L2u5aY6uqWPJxDAzkmN50cJJC7pmCQ/GItKEhEcgYsw7V3DmyJAoGAB5N5\nvB9pMa1AeDN6+W5cAvIyHkVHL9m0sXrlw+zv8AGxURM6Q/wnELOsFlaMc51DqY08\nEP1dKw/qFh/Rj+abb3c6Pp5vOJ6e2zVWY1a2sb2QKkMf5SePxbIkkGCKyMWzyf+x\njNpF/7V9HAT/bQqFsoygoy+E4jPKz9lmzVoACy8CgYAwFSy1PJj8GugKTltJUl4t\nQdxeJ3rPOGK0IWqKVPoa5AYx3RJvBvv6LCD+bOlI8EgEZnUfjI2sg1K8kLQrIM1n\nAaoUZN4r30bpgY7uD5vkiLXmjeQmsu/x7oPU2SOwEB2d68Exk1vpopm3nFIyuZ0I\nlvneqrR/bkW8GStP9REtmw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "asa-robot@audio-bot-389910.iam.gserviceaccount.com",
+  "client_id": "109140876400013506764",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/asa-robot%40audio-bot-389910.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
